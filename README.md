@@ -1,2 +1,2 @@
 # XamarinFormsMobile
-Mobile App 
+Mobile Application for tracking courses, performance assessments, and instructor information 
